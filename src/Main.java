@@ -10,6 +10,9 @@ public class Main {
 
 
 /**
+ *
+ * https://app.codility.com/programmers/task/number_of_disc_intersections/
+ *
  * Given an array A of N integers, we draw N discs in a 2D plane such that the I-th disc is centered on (0,I) and has a radius of A[I].
  * We say that the J-th disc and K-th disc intersect if J != K and J-th and K-th discs have at least one common point.
  * Write a function:
